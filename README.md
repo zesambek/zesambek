@@ -33,7 +33,7 @@ I strongly believe in the power of automation to simplify complex tasks and free
 
 ### Contact Me
 
-Feel free to reach out to me via email at bekelesamson4@gmail.com or connect with me on [LinkedIn][(https://www.linkedin.com/in/samsonbekele
+Feel free to reach out to me via [email](bekelesamson4@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samsonbekele)
 
 ### Contributions and Collaborations
 
