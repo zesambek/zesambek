@@ -7,7 +7,7 @@ I'm a passionate software engineer with 1 years of experience in web development
 - Languages: JavaScript, HTML, CSS,Python
 - Frameworks: Selenium, Pandas,Django
 - Tools: Git
-#- Testing: 
+
 
 ### Projects
 
