@@ -13,7 +13,7 @@ I'm a passionate software engineer with 1 years of experience in web development
 
 #### Project 1 - Weather App
 A fully functional Weather app  built with chrome extension and weather API. 
-#### Project 2 - Web Escraping
+#### Project 2 - Web scraping
 I have succesfuly built the web escraping application  which extracts due date of the listed  serial numbers of parts from specific website Take a look at the code [here](https://github.com/zesambek/web-scraping-SN-with-due-date)
 .
 
